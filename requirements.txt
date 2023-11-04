@@ -1,0 +1,8 @@
+Package    Version
+---------- -------
+click      8.1.7
+pip        23.2
+psutil     5.9.6
+py-cpuinfo 9.0.0
+setuptools 67.8.0
+wheel      0.38.4
